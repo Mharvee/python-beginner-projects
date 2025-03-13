@@ -7,9 +7,9 @@ Welcome to my Python Beginner Projects repository! This is where I store fun and
 **Mad Libs Game**  
 A fun interactive game where users input words to create a random funny story.  
 
-File: `madlibs.py`  
+File: `MadLibs.py`  
    How to Run:  
-   python madlibs.py  
+   python MadLibs.py  
 
  **Features:**  
 -  Generates a unique story every time  
