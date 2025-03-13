@@ -1,4 +1,3 @@
-# python-beginner-projects
 # Python Beginner Projects  
 
 Welcome to my Python Beginner Projects repository! This is where I store fun and beginner-friendly Python projects that help me improve my coding skills.  
