@@ -29,7 +29,21 @@ A simple game where the player tries to guess a randomly generated number.
 - User input with hints (too high / too low)  
 - Loop until the correct guess  
 
----
+**Rock Paper Scissors Game**  
+
+A simple rock-paper-scissors game where the player competes against the computer.  
+
+**File:** `rock_paper_scissors.py`  
+
+### How to Run:  
+
+python rock_paper_scissors.py
+
+### Features:  
+- Play against a random AI opponent  
+- Choose between Rock, Paper, or Scissors  
+- The game announces the winner based on standard rules  
+- Loop until the player decides to quit  
 
  **How to Use This Repository**
 1. Clone this repository:  
