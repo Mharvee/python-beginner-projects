@@ -43,7 +43,16 @@ python rock_paper_scissors.py
 - Play against a random AI opponent  
 - Choose between Rock, Paper, or Scissors  
 - The game announces the winner based on standard rules  
-- Loop until the player decides to quit  
+- Loop until the player decides to quit
+
+  ## Temperature Converter  
+A simple program that converts temperatures between Celsius, Fahrenheit, and Kelvin.  
+
+### File: temperature_converter.py  
+
+### How to Run:  
+```sh
+python temperature_converter.py
 
  **How to Use This Repository**
 1. Clone this repository:  
